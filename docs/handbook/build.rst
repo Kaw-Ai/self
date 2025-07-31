@@ -66,8 +66,12 @@ VM Builder Script
 
 There is a python script for building the VM in various OS instances using QEMU at `https://github.com/russellallen/Self-VM-Builder`  which may provide help on how to build the VM.
 
+.. _building-a-world:
+
 How to build the world
 ----------------------
+
+    Last updated 23 September 2024 for Self 2024.1
 
 Should you need to reconstruct a world from the source files, here’s how to do it. This section describes
 how to create a default object world by reading in the Self source code distributed through the `GitHub repository`_. You can also do this after writing the world out using the transporter (``transporter fileOut fileOutAll``).
