@@ -66,6 +66,8 @@ VM Builder Script
 
 There is a python script for building the VM in various OS instances using QEMU at `https://github.com/russellallen/Self-VM-Builder`  which may provide help on how to build the VM.
 
+.. _building-a-world:
+
 How to build the world
 ----------------------
 
